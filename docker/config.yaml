@@ -1,0 +1,5 @@
+bind-addr: 0.0.0.0:8000
+auth: password
+password: please_make_your_password_here
+cert: false
+
